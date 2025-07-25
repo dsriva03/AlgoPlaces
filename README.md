@@ -1,4 +1,4 @@
-🧠 AlgoPlaces
+#🧠 AlgoPlaces
 
 A Smarter Way to Master Algorithms
 
