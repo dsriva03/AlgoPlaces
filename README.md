@@ -86,13 +86,12 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/JoshuaHirakawa/AlgoPlaces.git
 cd AlgoPlaces
-
+```
 ### 2. Install Dependencies
 
 ```bash
 npm install
 ```
-
 ### 3. Configure Environment Variables
 
 Create a `.env` file in the root directory and add:
