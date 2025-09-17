@@ -31,16 +31,6 @@ AlgoPlaces is an AI-assisted web platform built to help developers and students 
 
 ---
 
-## 🎥 Demo Preview
-
-**AI Strategy Generator**  
-[Insert screenshot or GIF]
-
-**Practice & Progress**  
-[Insert screenshot or GIF]
-
----
-
 ## 🧰 Tech Stack
 
 ### Frontend
